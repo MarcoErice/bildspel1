@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ProjectItem Type="Microsoft.VisualStudio.SharePoint.Module" DefaultFile="Elements.xml" SupportedTrustLevels="All" SupportedDeploymentScopes="Web, Site" xmlns="http://schemas.microsoft.com/VisualStudio/2010/SharePointTools/SharePointProjectItemModel">
+  <Files>
+    <ProjectItemFile Source="Elements.xml" Target="Images\" Type="ElementManifest" />
+    <ProjectItemFile Source="AppIcon.png" Target="Images\" Type="ElementFile" />
+    <ProjectItemFile Source="SP_puzzle_icon.jpg" Target="Images\" Type="ElementFile" />
+    <ProjectItemFile Source="camera-loader.gif" Target="Images\" Type="ElementFile" />
+    <ProjectItemFile Source="blank.gif" Target="Images\" Type="ElementFile" />
+    <ProjectItemFile Source="camera_skins.png" Target="Images\" Type="ElementFile" />
+    <ProjectItemFile Source="patterns\overlay1.png" Target="Images\patterns\" Type="ElementFile" />
+    <ProjectItemFile Source="patterns\overlay10.png" Target="Images\patterns\" Type="ElementFile" />
+    <ProjectItemFile Source="patterns\overlay2.png" Target="Images\patterns\" Type="ElementFile" />
+    <ProjectItemFile Source="patterns\overlay3.png" Target="Images\patterns\" Type="ElementFile" />
+    <ProjectItemFile Source="patterns\overlay4.png" Target="Images\patterns\" Type="ElementFile" />
+    <ProjectItemFile Source="patterns\overlay5.png" Target="Images\patterns\" Type="ElementFile" />
+    <ProjectItemFile Source="patterns\overlay6.png" Target="Images\patterns\" Type="ElementFile" />
+    <ProjectItemFile Source="patterns\overlay7.png" Target="Images\patterns\" Type="ElementFile" />
+    <ProjectItemFile Source="patterns\overlay8.png" Target="Images\patterns\" Type="ElementFile" />
+    <ProjectItemFile Source="patterns\overlay9.png" Target="Images\patterns\" Type="ElementFile" />
+    <ProjectItemFile Source="patterns\_notes\dwsync.xml" Target="Images\patterns\_notes\" Type="ElementFile" />
+  </Files>
+</ProjectItem>

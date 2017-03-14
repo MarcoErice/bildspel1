@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="3478f1ca-0f69-4e31-a1fd-47240c1c3e4e" 
+        solutionId="3478f1ca-0f69-4e31-a1fd-47240c1c3e4e" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="bildspel1"
+        sharePointProductVersion="16.0">
+  <features>
+        <featureReference itemId="b98a6075-2ed0-45e4-8236-11c0c6eb2a6e" />
+  </features>
+</package>

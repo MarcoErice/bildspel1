@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Module Name="Images">
+    <File Path="Images\AppIcon.png" Url="Images/AppIcon.png" ReplaceContent="TRUE" />
+    <File Path="Images\SP_puzzle_icon.jpg" Url="Images/SP_puzzle_icon.jpg" ReplaceContent="TRUE" />
+    <File Path="Images\camera-loader.gif" Url="Images/camera-loader.gif" ReplaceContent="TRUE" />
+    <File Path="Images\blank.gif" Url="Images/blank.gif" ReplaceContent="TRUE" />
+    <File Path="Images\camera_skins.png" Url="Images/camera_skins.png" ReplaceContent="TRUE" />
+    <File Path="Images\patterns\overlay1.png" Url="Images/patterns/overlay1.png" ReplaceContent="TRUE" />
+    <File Path="Images\patterns\overlay10.png" Url="Images/patterns/overlay10.png" ReplaceContent="TRUE" />
+    <File Path="Images\patterns\overlay2.png" Url="Images/patterns/overlay2.png" ReplaceContent="TRUE" />
+    <File Path="Images\patterns\overlay3.png" Url="Images/patterns/overlay3.png" ReplaceContent="TRUE" />
+    <File Path="Images\patterns\overlay4.png" Url="Images/patterns/overlay4.png" ReplaceContent="TRUE" />
+    <File Path="Images\patterns\overlay5.png" Url="Images/patterns/overlay5.png" ReplaceContent="TRUE" />
+    <File Path="Images\patterns\overlay6.png" Url="Images/patterns/overlay6.png" ReplaceContent="TRUE" />
+    <File Path="Images\patterns\overlay7.png" Url="Images/patterns/overlay7.png" ReplaceContent="TRUE" />
+    <File Path="Images\patterns\overlay8.png" Url="Images/patterns/overlay8.png" ReplaceContent="TRUE" />
+    <File Path="Images\patterns\overlay9.png" Url="Images/patterns/overlay9.png" ReplaceContent="TRUE" />
+    <File Path="Images\patterns\_notes\dwsync.xml" Url="Images/patterns/_notes/dwsync.xml" ReplaceContent="TRUE" />
+  </Module>
+</Elements>
